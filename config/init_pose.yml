@@ -1,0 +1,24 @@
+train:
+  exp_name: init_vae_v1
+  exp_path: /workspace/Demo_Dance/exp
+  
+  data_root: /mnt/randomdisk/train_dance
+  dance_type: ['anime_dance','popping_dance','locking_dance']
+  num_worker: 8
+  batch_size: 512
+  random_seed: 2233
+
+  lr: !!float 1e-3
+  epoch: 1200
+  display_freq: 1200 # on train iter (75600 iter for dataset)
+  save_freq: 10 #epoch / also as val freq
+
+  loss:
+    mask: True
+  
+  model:
+    input_size: 42
+    init_z_dim: 16
+  
+
+  

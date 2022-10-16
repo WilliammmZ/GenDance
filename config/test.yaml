@@ -1,0 +1,27 @@
+# do not need change
+random_seed: 2233
+mic_size: 37
+kps_size: 34 # bdance 42 remember change 34
+
+
+#------------------------set----------------------------
+ckpt_file: '/workspace/music2dance/log/gst_aist_compare_revo_cosmargin0.08/00127500.ckpt'
+
+
+gstc:
+  time_step: 150
+  d_mic_embed: 200
+  d_model: 200
+  d_inner: 1024
+  n_head: 8
+  d_k: 64
+  d_v: 64
+  n_layers: 2 # the number of transformer encoder in music process
+  dropout: 0.1
+  max_len: 900
+  lstm_hidden_dim: 256
+  lstm_n_layer: 1
+  n_token: 10
+  s_n_head: 4
+  shift: True
+
