@@ -65,9 +65,6 @@ python /workspace/Demo_Dance/gen_multi_dance.py \
 - kps_scaler_path: the path of the normalization scaler for data transform or inverse transform.
 - offset: select the start frame of the music(the script can only generate 20s video).
 
-### Outputs display：
-
-<video src="/workspace/Demo_Dance/case3.mp4" controls="controls" width="500" height="300"></video>
 
 
 
@@ -100,7 +97,11 @@ python /workspace/Demo_Dance/gen_dance_with_coach.py \
 
 ### Outputs display:
 
-<video src="https://github.com/WilliammmZ/GenDance/blob/main/case3.mp4" controls="controls" width="500" height="300"></video>
+
+
+https://user-images.githubusercontent.com/18674350/196022390-31bb6fac-63be-45f6-903c-a826883081ff.mp4
+
+
 
 ### 5. Cases
 
