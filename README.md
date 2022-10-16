@@ -100,7 +100,7 @@ python /workspace/Demo_Dance/gen_dance_with_coach.py \
 
 ### Outputs display:
 
-<video src="/workspace/Demo_Dance/case3.mp4" controls="controls" width="500" height="300"></video>
+<video src="https://github.com/WilliammmZ/GenDance/blob/main/case3.mp4" controls="controls" width="500" height="300"></video>
 
 ### 5. Cases
 
