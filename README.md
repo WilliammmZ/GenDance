@@ -1,9 +1,9 @@
 ## Overview
 This is the PyTorch implementation to reproduce the multi-style dance generation process with the AIST++ dataset.
 
-IMPORTANT: Please [click](https://youtu.be/AIGkObm99jk) and watch demo first.
-<!-- ![![demo](https://user-images.githubusercontent.com/18674350/196024853-81c74407-ae38-464f-bb32-9a9f10e89920.png)](https://youtu.be/AIGkObm99jk) -->
-[![fm](https://user-images.githubusercontent.com/18674350/196024953-98387843-a760-442c-9f76-e70776417f89.png)](https://youtu.be/AIGkObm99jk)
+IMPORTANT: Please [click](https://youtu.be/VstGg6f726w) and watch demo first.
+
+[![fm](https://user-images.githubusercontent.com/18674350/204462684-dcd49f77-5d3a-4621-8c8e-fcc1d4e9b328.png)](https://youtu.be/VstGg6f726w)
 
 
 ## Requirements
